@@ -13,6 +13,7 @@ public class HashCodeInJava {
 		hs.add(45);
 		hs.add(56);
 		hs.add(78);
+		hs.add(100);
 		
 		Iterator it=hs.iterator();
 		while(it.hasNext())
